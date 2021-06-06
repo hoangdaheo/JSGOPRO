@@ -34,7 +34,7 @@ const sacPin =()=>{
     });
     return thaoTacSacPin;
 }
-const call =(soDt)=>{
+const call =(soDt) => {
     console.log(`Dang noi chuyen voi so: ${soDt}`);
 }
 const hanhDong = async ()=>{
